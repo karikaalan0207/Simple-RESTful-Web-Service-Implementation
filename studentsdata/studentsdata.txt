@@ -1,0 +1,9 @@
+Students of CST Department
+
+|Rollno    |Year      |Name      |
+----------------------------------
+|42        |3        |Aravindh        
+|43        |3        |Karan        
+|23        |2        |Sreetam        
+|54        |3        |Sriram        
+|9        |3        |Shojol Shoni        
